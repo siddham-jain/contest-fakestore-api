@@ -36,6 +36,7 @@ public class CartServiceImplementation implements CartService{
         Cart newCart = new Cart();
         newCart.setId(cart.getId());
         newCart.setUserId(cart.getUserId());
+        newCart.setDate(cart.getDate());
         newCart.setProducts(cart.getProducts());
 
         return newCart;
