@@ -1,6 +1,4 @@
-# Project Name
-
-A brief description of the project.
+fakestore cart demo api usage
 
 ## Table of Contents
 
